@@ -18,9 +18,12 @@ Responsive 30 minutes en modifiant ma grid pour aller au plus vite l'heure perdu
 La popup manque de temps j'ai commencé l'implantation sachant que je n'en ai pas fait à ce jour (JS CSS HTML) là c'est le drame plus de temps.
 
 
-TEMPS 6h40
-HEADER : 1h30/2h
+TEMPS 6h40 (TEMPS TOTAL EXACT)
+
+Le reste des temps est indicatif car après avoir dépenser (perdu) plus d'une heure de temps j'ai pas tellement regarder mon compte à rebours.
+HEADER : 2h/2h30
 BANNIERRE : 30min + 15min pour souligner
 PORTFOLIO : 15 minutes j'ai pris un raccourci en prenant une seule image pour toutes les marques
-SLIDER : 1h
-TEXT INFINITE : 
+SLIDER : 1h30
+TEXT INFINITE : 1h 
+RESPONSIVE : 30min
